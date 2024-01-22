@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+    "name"          "Entity Deleter"
+    "version"       "1.0"
+    "up_date"       "January 2024"
+    "author_name"   "WelshLadAshton"
+    "info"          "Deletes entities on right-click."
+    "override"      1
+    "icon"          "icon64.png"
+}
